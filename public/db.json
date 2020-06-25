@@ -1,0 +1,40 @@
+{
+  "product": [
+    {
+      "title": "Ilford film",
+      "price": 19.99,
+      "id": 1,
+      "sku": 111,
+      "description": "",
+      "availableFormats": ["6:6", "6:9", "35"],
+      "isFreeShipping": true
+    },
+    {
+      "title": "Kodak film 800",
+      "price": 8.99,
+      "id": 2,
+      "sku": 222,
+      "description": "",
+      "availableFormats": ["6:6"],
+      "isFreeShipping": true
+    },
+    {
+      "title": "Fuji film",
+      "price": 9.99,
+      "id": 3,
+      "sku": 333,
+      "description": "",
+      "availableFormats": ["6:6", "6:9", "35"],
+      "isFreeShipping": true
+    },
+    {
+      "title": "Kodak film 400",
+      "price": 4.99,
+      "id": 4,
+      "sku": 444,
+      "description": "",
+      "availableFormats": ["6:6", "6:9", "35"],
+      "isFreeShipping": true
+    }
+  ]
+}
